@@ -6,3 +6,10 @@ d 1
 illum 2
 Ka 0 0 0
 Ks 0.2 0.2 0.2
+newmtl eye
+Kd 0.527234 0.00472553 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
